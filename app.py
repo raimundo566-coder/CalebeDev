@@ -57,5 +57,3 @@ else:
 
 st.sidebar.markdown("---")
 st.sidebar.write("Engenharia: Calebe")
-.
-
