@@ -128,3 +128,4 @@ elif opcao == "🗺️ Mapa":
 st.sidebar.markdown("---")
 st.sidebar.text("Desenvolvido por Calebe Eng.")
 st.sidebar.info("Fase: Nível 2 - Arquiteto")
+.
